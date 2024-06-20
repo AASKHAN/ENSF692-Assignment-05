@@ -9,7 +9,7 @@
 ## 💻 Program Specifications
 The demo program in Assignment 5 is a collaborative effort between Garth Johnson and Emily Marasco, and is used with permission.
 Before submitting your files, you must complete the following tasks:
-* Change "STUDENT NAME" to your own name in the code.
+* Change "STUDENT NAME" to your own name in the code. #Adeel_Ahmed
 * Follow the "/hello/<name>" route by entering your own name. Take a screenshot of the display. 
 * Modify the book table to display a new column with the sale price (reduced by 25%). Submit a screenshot of the modified table being displayed.
 * Create a new route "/learn" that displays one thing that you learned in ENSF 692. Submit a screenshot of your answer being displayed.
