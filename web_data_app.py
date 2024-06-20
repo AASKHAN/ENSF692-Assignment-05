@@ -1,10 +1,10 @@
 # web_data_app.py
 # Instructor: Sarah Shah
-# June 19, 2024
+# Deadline: 19th June, 2024
 # Modified by: Adeel_Ahmed_Salman
 #
 # An simple program for demonstrating web applications using Flask and web scraping of data using Beautiful Soup.
-# Detailed specifications are provided via the Assignment 6 git repository.
+# Detailed specifications are provided via the Assignment 5 README file.
 
 
 import pandas as pd     # needed for data manipulation
